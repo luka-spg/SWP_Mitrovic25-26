@@ -54,5 +54,5 @@ enum Encoding {
     Default
     Url3986
     UrlLegacy
-    Base64
+    Base64
 }
